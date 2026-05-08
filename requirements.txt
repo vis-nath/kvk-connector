@@ -1,0 +1,7 @@
+databricks-sdk>=0.20.0
+databricks-sql-connector>=3.0.0
+redshift-connector>=2.0.0
+pandas>=2.0.0
+python-dotenv>=1.0.0
+pytest>=8.0.0
+pytest-mock>=3.12.0
